@@ -17,7 +17,7 @@ This repository contains solutions to five homework assignments for the **DS-288
    - Approximating derivatives using finite differences.  
 
 5. **Homework 5: Numerical Integration**  
-   - Trapezoidal and Simpson’s rules for integration.  
+   - Trapezoidal, Simpson’s rules for integration, Romberg Integration and Gauss Quadrature.  
 
 6. **Homework 6: Ordinary Differential Equations**  
    - Not submitted, as the best 5 out of 6 assignments were considered for grading.  
