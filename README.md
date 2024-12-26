@@ -25,11 +25,8 @@ This repository contains solutions to five homework assignments for the **DS-288
 ## What’s Included  
 
 Each folder contains:  
-- Python code for solutions  
-- Results and outputs  
+- Python code for solutions.  
+- Submitted Report.
 
 Feel free to explore and use this repository for learning and reference.  
 
----  
-
-This version keeps it simple and to the point while remaining informative.
