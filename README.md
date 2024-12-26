@@ -1,1 +1,1 @@
-# My solutions to DS-288 Assignments
+# My solutions to DS-288 Numerical Methods Assignments
