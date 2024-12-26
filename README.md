@@ -1,1 +1,1 @@
-# DS-288 Numerical Methods: Homework Solutions
+# DS-288 Numerical Methods:  Homework Solutions
